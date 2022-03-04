@@ -15,13 +15,20 @@ The following repository contains ELT work for data harvested from a fictional t
 2_4: Validate data using SQL
 
 2_5: Cleanse customer data
+
 2_6: Preliminary analytics
+
 2_7: Executive summary
 
 ## Files
 peak_customers: Peak customer data
+
 peak_line_items: Peak meal data
+
 peak_sales: Peak sales data
+
 peak_stores: Peak stores data
+
 peak_product_mapping: CSV containing agm products to be mapped to Peak's deliveries
+
 peak_sales_2020_10_03: JSON to be parsed into above csv's
