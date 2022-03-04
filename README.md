@@ -7,9 +7,13 @@ The following repository contains ELT work for data harvested from a fictional t
 
 ## Data Cleansing and Analysis
 2_1: Create and load product mapping table
+
 2_2: Parse JSON files into csv
+
 2_3: Create and load staging tables
+
 2_4: Validate data using SQL
+
 2_5: Cleanse customer data
 2_6: Preliminary analytics
 2_7: Executive summary
